@@ -1,1 +1,1 @@
-# THI-T-K-XE-T-NG-CH-Y-THEO-QU-O-S-D-NG-GYROSCOPE
+# Thiết kế xe tự động chạy theo quỹ đạo sử dụng gyroscope
